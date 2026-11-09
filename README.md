@@ -1,5 +1,8 @@
 <!-- Header -->
-<img src="./assets/banner-rain-cream-rose.svg" width="100%" alt="Jiashu (Jerry) Huang · ML Engineer · Data Scientist"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-rain-rose-night.svg" />
+  <img src="./assets/banner-rain-cream-rose.svg" width="100%" alt="Jiashu (Jerry) Huang · ML Engineer · Data Scientist" />
+</picture>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -99,4 +102,7 @@
 </p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ecdcc6,100:b07a86&height=100&section=footer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3a262e,100:8f5d6a&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ecdcc6,100:b07a86&height=100&section=footer" width="100%" />
+</picture>
