@@ -1,14 +1,14 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=180&section=header&text=Jiashu%20(Jerry)%20Huang&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=ML%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Northwestern%20MLDS&descAlignY=58&descSize=16" width="100%"/>
+<img src="./assets/banner-rain-cream-rose.svg" width="100%" alt="Jiashu (Jerry) Huang · ML Engineer · Data Scientist"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4F46E5&center=true&vCenter=true&width=640&lines=I+build+machine-learning+systems+end+to+end.;Computer+vision+%C2%B7+RAG+%C2%B7+LLM+evaluation;Forecasting+%26+applied+decision+science;Open+to+2027+new-grad+MLE+%26+DS+roles+%F0%9F%9A%80" alt="Typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8F5D6A&center=true&vCenter=true&width=640&lines=I+build+machine-learning+systems+end+to+end.;Computer+vision+%C2%B7+RAG+%C2%B7+LLM+evaluation;Forecasting+%26+applied+decision+science;Open+to+2027+new-grad+MLE+%26+DS+roles+%F0%9F%9A%80" alt="Typing intro"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://jiashuhuang.dev/"><img src="https://img.shields.io/badge/Website-jiashuhuang.dev-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://jiashuhuang.dev/"><img src="https://img.shields.io/badge/Website-jiashuhuang.dev-B07A86?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jiashu-huang-789413238/"><img src="https://img.shields.io/badge/LinkedIn-Jiashu%20Huang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:zherrs102@gmail.com"><img src="https://img.shields.io/badge/Email-zherrs102%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
@@ -92,8 +92,18 @@
 ### 📈 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gnauhuhsaij&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=4F46E5&icon_color=06B6D4&text_color=888888" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnauhuhsaij&layout=compact&hide_border=true&theme=transparent&title_color=4F46E5&text_color=888888&langs_count=6" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gnauhuhsaij/gnauhuhsaij/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/gnauhuhsaij/gnauhuhsaij/output/github-snake.svg" width="100%" />
+  </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=100&section=footer" width="100%"/>
+<p align="center">
+  <img height="160" src="https://raw.githubusercontent.com/gnauhuhsaij/gnauhuhsaij/main/profile-summary-card-output/github/0-profile-details.svg" />
+</p>
+<p align="center">
+  <img height="160" src="https://raw.githubusercontent.com/gnauhuhsaij/gnauhuhsaij/main/profile-summary-card-output/github/3-stats.svg" />
+  <img height="160" src="https://raw.githubusercontent.com/gnauhuhsaij/gnauhuhsaij/main/profile-summary-card-output/github/2-most-commit-language.svg" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ecdcc6,100:b07a86&height=100&section=footer" width="100%"/>
