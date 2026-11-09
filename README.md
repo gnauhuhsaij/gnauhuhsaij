@@ -103,6 +103,6 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3a262e,100:8f5d6a&height=100&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ecdcc6,100:b07a86&height=100&section=footer" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-rose-night.svg" />
+  <img src="./assets/footer-cream-rose.svg" width="100%" />
 </picture>
