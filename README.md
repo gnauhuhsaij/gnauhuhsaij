@@ -98,12 +98,5 @@
   </picture>
 </p>
 
-<p align="center">
-  <img height="160" src="https://raw.githubusercontent.com/gnauhuhsaij/gnauhuhsaij/main/profile-summary-card-output/github/0-profile-details.svg" />
-</p>
-<p align="center">
-  <img height="160" src="https://raw.githubusercontent.com/gnauhuhsaij/gnauhuhsaij/main/profile-summary-card-output/github/3-stats.svg" />
-  <img height="160" src="https://raw.githubusercontent.com/gnauhuhsaij/gnauhuhsaij/main/profile-summary-card-output/github/2-most-commit-language.svg" />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ecdcc6,100:b07a86&height=100&section=footer" width="100%"/>
