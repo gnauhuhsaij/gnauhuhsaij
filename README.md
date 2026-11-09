@@ -27,7 +27,7 @@
 | Role | Where | When |
 |:--|:--|:--|
 | 🧩 Full Stack Engineer | **Hax.ai** | Aug 2024 – Jan 2026 |
-| 🐝 Research Assistant | **Cheadle Center for Biodiversity & Ecological Restoration** · [Big-Bee-Network](https://github.com/Big-Bee-Network) | Jan 2024 – Jun 2025 |
+| 🐝 Research Assistant | **Cheadle Center for Biodiversity & Ecological Restoration** | Jan 2024 – Jun 2025 |
 | 🤖 Machine Learning Engineer Intern | **Xin Yi Tech** | Aug 2023 – Sep 2023 |
 | 🤖 Machine Learning Engineer | **Correkt** (startup) | Oct 2022 – Jul 2023 |
 
